@@ -1,6 +1,6 @@
 # Modelz faster-whisper
 
-[faster-whisper](https://github.com/guillaumekln/faster-whisper) is a large-scale pre-trained language model for open-domain chatbot, which is open-sourced by Tsinghua University.
+[faster-whisper](https://github.com/guillaumekln/faster-whisper) is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models.
 
 This repository contains the code (Dockerfile, [`build.envd`](https://envd.tensorchord.ai/guide/getting-started.html)) for deploying faster-whisper on [Modelz](https://docs.modelz.ai/).
 
