@@ -1,2 +1,2 @@
-transformers
 gradio
+faster-whisper

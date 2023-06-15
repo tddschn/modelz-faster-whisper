@@ -1,8 +1,8 @@
-# Modelz StarCoder
+# Modelz faster-whisper
 
-[StarCoder](https://huggingface.co/bigcode/starcoder) is a large-scale pre-trained language model for open-domain chatbot, which is open-sourced by Tsinghua University.
+[faster-whisper](https://github.com/guillaumekln/faster-whisper) is a large-scale pre-trained language model for open-domain chatbot, which is open-sourced by Tsinghua University.
 
-This repository contains the code (Dockerfile, [`build.envd`](https://envd.tensorchord.ai/guide/getting-started.html)) for deploying StarCoder on [Modelz](https://docs.modelz.ai/).
+This repository contains the code (Dockerfile, [`build.envd`](https://envd.tensorchord.ai/guide/getting-started.html)) for deploying faster-whisper on [Modelz](https://docs.modelz.ai/).
 
 ## Getting Started
 
